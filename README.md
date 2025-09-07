@@ -1,10 +1,10 @@
-# ?? Employee Attrition Prediction System
+# Employee Attrition Prediction System
 
 Predicting whether an employee will leave the company using machine learning models trained on real-world HR data. This project is part of my Data Science portfolio and demonstrates end-to-end workflow including data cleaning, exploratory data analysis, feature engineering, model building, evaluation, and business interpretation.
 
 ---
 
-## ?? Problem Statement
+## Problem Statement
 
 Employee attrition is a major concern for businesses globally. Retaining valuable employees is not only cost-effective but also critical to organizational success. Using the **IBM HR Analytics dataset**, this project aims to develop a predictive model that helps HR departments:
 
@@ -14,7 +14,7 @@ Employee attrition is a major concern for businesses globally. Retaining valuabl
 
 ---
 
-## ?? Dataset Overview
+## Dataset Overview
 
 - **Source**: [Kaggle - IBM HR Analytics Employee Attrition](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Rows**: 1,470 employees
@@ -23,7 +23,7 @@ Employee attrition is a major concern for businesses globally. Retaining valuabl
 
 ---
 
-## ?? Tools & Technologies Used
+## Tools & Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -37,7 +37,7 @@ Employee attrition is a major concern for businesses globally. Retaining valuabl
 
 ---
 
-## ?? Project Workflow
+## Project Workflow
 
 1. **Data Loading & Cleaning**
    - Handling missing values
@@ -70,7 +70,7 @@ Employee attrition is a major concern for businesses globally. Retaining valuabl
 
 ---
 
-## ?? Key Results
+## Key Results
 
 - Best model: **Random Forest Classifier**
 - Accuracy: ~88%
@@ -83,7 +83,7 @@ Employee attrition is a major concern for businesses globally. Retaining valuabl
 
 
 
-## ?? Results & Insights
+## Results & Insights
 
 - **Best Model:** Random Forest Classifier  
 	Accuracy : 0.844
@@ -92,12 +92,12 @@ Employee attrition is a major concern for businesses globally. Retaining valuabl
 	F1-Score : 0.148
 	ROC-AUC  : 0.786  
 
-### ?? Key Drivers of Attrition
+### Key Drivers of Attrition
 - High overtime strongly correlates with attrition.
 - Low job satisfaction and low monthly income increase risk.
 - Departmental differences highlight retention challenges.
 
-### ?? Business Recommendations
+### Business Recommendations
 - Reduce overtime workload for high-risk groups.
 - Improve engagement for dissatisfied employees.
 - Review compensation strategies for low-salary roles.
@@ -108,7 +108,7 @@ Employee attrition is a major concern for businesses globally. Retaining valuabl
 
 
 
-## ?? What You’ll Learn (for Employers & Clients)
+## What Youâ€™ll Learn (for Employers & Clients)
 
 ? Ability to conduct end-to-end data science workflow  
 ? Experience with HR analytics and classification problems  
@@ -117,13 +117,13 @@ Employee attrition is a major concern for businesses globally. Retaining valuabl
 
 ---
 
-## ?? Dataset License
+## Dataset License
 
 This dataset is publicly available for educational purposes and falls under the open data license by IBM (via Kaggle).
 
 ---
 
-## ?? Contact
+## Contact
 
 **Nafees Ayub**  
 Data Scientist | Lecturer | Freelancer  
