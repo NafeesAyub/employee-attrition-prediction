@@ -126,8 +126,8 @@ This dataset is publicly available for educational purposes and falls under the 
 ## Contact
 
 **Nafees Ayub**  
-Data Scientist | Lecturer | Freelancer  
-nafees.data@gmail.com  
+Data Scientist | Lecturer | Researcher | Freelancer 
+nafeesayub@gmail.com  
 LinkedIn Profile: https://www.linkedin.com/in/nafees-ayub-854a4975/ 
 Open to remote and international opportunities
 
