@@ -110,10 +110,10 @@ Employee attrition is a major concern for businesses globally. Retaining valuabl
 
 ## What You’ll Learn (for Employers & Clients)
 
-? Ability to conduct end-to-end data science workflow  
-? Experience with HR analytics and classification problems  
-? Strong command over feature engineering and model tuning  
-? Ability to generate actionable business insights  
+Ability to conduct end-to-end data science workflow  
+Experience with HR analytics and classification problems  
+Strong command over feature engineering and model tuning  
+Ability to generate actionable business insights  
 
 ---
 
@@ -127,9 +127,9 @@ This dataset is publicly available for educational purposes and falls under the 
 
 **Nafees Ayub**  
 Data Scientist | Lecturer | Freelancer  
-?? nafees.data@gmail.com  
-?? [LinkedIn Profile](https://www.linkedin.com) (Update this link)  
-?? Open to remote and international opportunities
+nafees.data@gmail.com  
+LinkedIn Profile: https://www.linkedin.com/in/nafees-ayub-854a4975/ 
+Open to remote and international opportunities
 
 ---
 
